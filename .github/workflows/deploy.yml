@@ -26,6 +26,5 @@ jobs:
     - run: touch build/.nojekyll
     - uses: maxheld83/ghpages@v0.2.1
       env:
-        CI: false
         BUILD_DIR: build
         GH_PAT: ${{ secrets.GH_PAT }}
