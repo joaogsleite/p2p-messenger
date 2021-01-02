@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/p2p-messenger/static/css/main.19e1fa8b.chunk.css",
+    "main.js": "/p2p-messenger/static/js/main.535a9e90.chunk.js",
+    "main.js.map": "/p2p-messenger/static/js/main.535a9e90.chunk.js.map",
+    "runtime-main.js": "/p2p-messenger/static/js/runtime-main.65b889a7.js",
+    "runtime-main.js.map": "/p2p-messenger/static/js/runtime-main.65b889a7.js.map",
+    "static/js/2.c064b995.chunk.js": "/p2p-messenger/static/js/2.c064b995.chunk.js",
+    "static/js/2.c064b995.chunk.js.map": "/p2p-messenger/static/js/2.c064b995.chunk.js.map",
+    "static/js/3.52aae76d.chunk.js": "/p2p-messenger/static/js/3.52aae76d.chunk.js",
+    "static/js/3.52aae76d.chunk.js.map": "/p2p-messenger/static/js/3.52aae76d.chunk.js.map",
+    "index.html": "/p2p-messenger/index.html",
+    "static/css/main.19e1fa8b.chunk.css.map": "/p2p-messenger/static/css/main.19e1fa8b.chunk.css.map",
+    "static/js/2.c064b995.chunk.js.LICENSE.txt": "/p2p-messenger/static/js/2.c064b995.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.65b889a7.js",
+    "static/js/2.c064b995.chunk.js",
+    "static/css/main.19e1fa8b.chunk.css",
+    "static/js/main.535a9e90.chunk.js"
+  ]
+}

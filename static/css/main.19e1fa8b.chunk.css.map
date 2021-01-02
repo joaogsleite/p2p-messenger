@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/style.css"],"names":[],"mappings":"AAAA,SACE,UAAW,CACX,kBACF,CACA,iBACE,eACF","file":"main.19e1fa8b.chunk.css","sourcesContent":[".message {\n  width: 100%;\n  margin-bottom: 15px;\n}\n.message > .sender {\n  font-weight: bold;\n}"]}
