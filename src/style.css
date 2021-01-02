@@ -1,0 +1,7 @@
+.message {
+  width: 100%;
+  margin-bottom: 15px;
+}
+.message > .sender {
+  font-weight: bold;
+}
