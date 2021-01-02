@@ -21,6 +21,8 @@ jobs:
         node-version: '12.x'
     - run: npm install
     - run: npm run build
+      env:
+        CI: false
     - run: touch build/.nojekyll
     - uses: maxheld83/ghpages@v0.2.1
       env:
